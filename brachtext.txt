@@ -3,3 +3,5 @@ this is a text file for the first test branch
 this is the part that's changed from previous commit
 
 this is the part edited from the remote repository
+
+this is also edited from the remote repository, but try fetch and merge this time
